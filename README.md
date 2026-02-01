@@ -35,3 +35,4 @@ This project is a **Python-based AI system** for detecting phishing emails using
 ```bash
 pip install -r requirements.txt
 python email_reader.py
+
